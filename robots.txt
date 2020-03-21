@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieshainuij.prashit.in/sitemap.xml
